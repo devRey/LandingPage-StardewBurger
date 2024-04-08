@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+#home {
+    height: 100vh;
+    background-image: url(stardew\ fundo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#home .logo .stardew {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 480px;
+    padding: 1.8cm;
+    
+}
+
+#menu {
+    background-color: black;
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+        

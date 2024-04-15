@@ -24,6 +24,8 @@ header {
 header ul {
     list-style: none;
     background-image: url(Botão/fundoboxul.png);
+    max-width: 100%;
+   
     
 }
 

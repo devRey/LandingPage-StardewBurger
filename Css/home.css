@@ -1,7 +1,3 @@
-* {
-    margin: 0;
-    padding: 0;
-}
 
 
 
@@ -17,9 +13,11 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-left: 480px;
-    padding: 1.8cm;
-    
+    text-align: center;
+    padding: 3rem;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
 }
 
 #menu {
